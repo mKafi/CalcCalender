@@ -1,1 +1,1 @@
-A nice calender and calculator script. I have stolen few scripts from internet and updated as my requirement. 
+A nice calender and calculator script. I have copied and modified a few scripts from internet and uploaded here.
